@@ -1,0 +1,2 @@
+# blog
+For Blogs, duh
